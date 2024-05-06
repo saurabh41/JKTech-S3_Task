@@ -49,7 +49,7 @@ Refer following API for CRUD operation
    params:- objectId 
    
    example:- http://localhost:3000/getObject/9 \
-   explaination:- This API will return the specific Object using unique object Id
+   explaination:- This API will return the specific Object(File) using unique object Id
 
 6) DeleteObject
 
