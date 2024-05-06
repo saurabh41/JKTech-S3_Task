@@ -34,13 +34,13 @@ Refer following API for CRUD operation
 
    note:- Please use the postman to call this API. use form-data body and use key as "file" and value as a select file from your local computer. 
    
-5) ListAllObjects
+4) ListAllObjects
 
-  API Type:- GET\
-  EndPoint:- http://localhost:3000/listAllObjects \
+   API Type:- GET\
+   EndPoint:- http://localhost:3000/listAllObjects \
 
-  example:- http://localhost:3000/listAllObjects \
-  explaination:- List all objects 
+   example:- http://localhost:3000/listAllObjects \
+   explaination:- List all objects 
 
 5) GetObject
 
