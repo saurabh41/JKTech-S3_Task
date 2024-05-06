@@ -18,7 +18,7 @@ Refer following API for CRUD operation
 2) ListBucket
 
    API Type: GET\
-   Endpoint:- http://localhost:3000/listAllBuckets \
+   Endpoint:- http://localhost:3000/listAllBuckets 
 
    example:- http://localhost:3000/listAllBuckets \
    explaination:- List down all the buckets available
@@ -32,7 +32,7 @@ Refer following API for CRUD operation
    example:- http://localhost:3000/putObject/3 \
    explaination:- put/upload the file(Object) in specific bucket
 
-   note:- Please use the postman to call this API. use form-data body and use key as "file" and value as a select file from your local computer. \
+   note:- Please use the postman to call this API. use form-data body and use key as "file" and value as a select file from your local computer. 
    
 5) ListAllObjects
 
