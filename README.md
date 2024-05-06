@@ -37,7 +37,7 @@ Refer following API for CRUD operation
 4) ListAllObjects
 
    API Type:- GET\
-   EndPoint:- http://localhost:3000/listAllObjects \
+   EndPoint:- http://localhost:3000/listAllObjects 
 
    example:- http://localhost:3000/listAllObjects \
    explaination:- List all objects 
@@ -53,12 +53,12 @@ Refer following API for CRUD operation
 
 6) DeleteObject
 
-  API Type:- GET \
-  EndPoint:- http://localhost:3000/deleteObject/:objectId \
-  params:- objectId
+   API Type:- GET \
+   EndPoint:- http://localhost:3000/deleteObject/:objectId \
+   params:- objectId
 
-  example:- http://localhost:3000/deleteObject/9 \
-  explaination:- This API will Delete specific Object(File)
+   example:- http://localhost:3000/deleteObject/9 \
+   explaination:- This API will Delete specific Object(File)
 
   
   
