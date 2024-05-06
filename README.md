@@ -10,10 +10,10 @@ Refer following API for CRUD operation
    
    API Type: GET\
    Endpoint:- http://localhost:3000/createBucket/:bucketName \
-   Params :- bucketName\
+   Params :- bucketName
 
    example:- http://localhost:3000/createBucket/newBucket \
-   explaination:- bucket named "newBucket" will be created \
+   explaination:- bucket named "newBucket" will be created 
 
 2) ListBucket
 
